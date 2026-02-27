@@ -53,7 +53,7 @@ SHAP (SHapley Additive exPlanations) is integrated for model explainability — 
 | Decision Tree | Multi-class | 0.976 | 0.976 | 0.862 | ~12s |
 | Logistic Regression | Multi-class | 0.871 | 0.869 | 0.542 | ~46s |
 
-> *Update these numbers with your actual results from `reports/model_comparison.csv`*
+>
 
 ---
 
