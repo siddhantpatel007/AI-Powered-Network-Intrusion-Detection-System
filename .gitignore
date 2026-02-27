@@ -1,0 +1,8 @@
+venv/
+Dataset/
+processed_data/
+models/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

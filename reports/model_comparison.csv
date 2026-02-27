@@ -1,0 +1,9 @@
+model_name,task,accuracy,precision_weighted,recall_weighted,f1_weighted,f1_macro,roc_auc,training_time_sec
+DecisionTree,binary,0.999,0.999,0.999,0.999,0.998,0.9988,108.1
+DecisionTree,multi,0.9979,0.9982,0.9979,0.998,0.8665,0.9993,69.8
+RandomForest,binary,0.999,0.999,0.999,0.999,0.998,1.0,345.0
+RandomForest,multi,0.9985,0.9986,0.9985,0.9986,0.8927,0.9999,348.2
+XGBoost,binary,0.9993,0.9993,0.9993,0.9993,0.9986,1.0,26.7
+XGBoost,multi,0.9989,0.9989,0.9989,0.9989,0.9094,1.0,401.4
+LogisticRegression,binary,0.9413,0.9495,0.9413,0.9437,0.895,0.9834,27.6
+LogisticRegression,multi,0.753,0.9695,0.753,0.8376,0.3636,0.9723,920.7

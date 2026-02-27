@@ -1,0 +1,10 @@
+LogisticRegression — Binary Classification Report
+============================================================
+              precision    recall  f1-score   support
+
+           0       0.99      0.95      0.96    284501
+           1       0.75      0.92      0.83     50474
+
+    accuracy                           0.94    334975
+   macro avg       0.87      0.93      0.90    334975
+weighted avg       0.95      0.94      0.94    334975
